@@ -1,4 +1,4 @@
-# DenseNet Models for Tiny ImageNet Classification
+# DenseNet Models for Tiny ImageNet Classification (To be Updated very soon)
 
 ## Abstract 
 
