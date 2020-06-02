@@ -1,4 +1,6 @@
-# DenseNet Models for Tiny ImageNet Classification (To be Updated very soon)
+# DenseNet Models for Tiny ImageNet Classification 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/densenet-models-for-tiny-imagenet/image-classification-on-tiny-imagenet-1)](https://paperswithcode.com/sota/image-classification-on-tiny-imagenet-1?p=densenet-models-for-tiny-imagenet)
+
 
 ## Abstract 
 
